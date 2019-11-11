@@ -11,7 +11,8 @@ iOS 13 and Swift Playgrounds 3.1
 
 ## Included tutorials
 
-1. `Building Lists and Navigation` from https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation
+1. `Creating and Combining Views` from https://developer.apple.com/tutorials/swiftui/creating-and-combining-views
+2. `Building Lists and Navigation` from https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation
 
 ## Troubleshooting
 If LiveView rendering is laggy, turn off `Enable Results` 
